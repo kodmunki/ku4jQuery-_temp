@@ -11,7 +11,7 @@ This project is defaulted to leverage jQuery but can be set to leverage any Java
 
 This build process is dependent upon yuicompressor and a specific directory structure:
 
-*root
+* root
 .._build (This build script and the yuicompressor)
 ..bin (The compiled scripts will appear here)
 ..lib (All script files go here)
@@ -20,7 +20,7 @@ The following variables found in setup () are
 expected to be changed by the developer running
 this process:
 
-*LIBRARY (The library to build for or {} for none)
-*PROJNAME (The name of your project)
-*STARTMSG (A message to echo at start of build)
-*ENDMSG (A message to echo at end of build)
+* LIBRARY (The library to build for or {} for none)
+* PROJNAME (The name of your project)
+* STARTMSG (A message to echo at start of build)
+* ENDMSG (A message to echo at end of build)

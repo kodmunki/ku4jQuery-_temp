@@ -1,5 +1,5 @@
-ku4jQuery-_template
-===================
+#ku4jQuery-_template
+
 
 kodmunki™ utilities for jQuery (or other library) project template.
 
@@ -7,8 +7,8 @@ This project is defaulted to leverage jQuery but can be set to leverage any Java
 
 
 ===============kodmunki™ build process==============
- This build process is dependent upon yuicompressor
- and a specific directory structure:
+This build process is dependent upon yuicompressor
+and a specific directory structure:
 
  root
    _build (This build script and the yuicompressor)
@@ -23,4 +23,3 @@ This project is defaulted to leverage jQuery but can be set to leverage any Java
  PROJNAME (The name of your project)
  STARTMSG (A message to echo at start of build)
  ENDMSG (A message to echo at end of build)
-====================================================

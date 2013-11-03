@@ -11,8 +11,7 @@ This project is defaulted to leverage jQuery but can be set to leverage any Java
 
 This build process is dependent upon yuicompressor and a specific directory structure:
 
-* root
-
+root  
    _build (This build script and the yuicompressor)  
    bin (The compiled scripts will appear here)  
    lib (All script files go here)

@@ -7,7 +7,9 @@ This project is defaulted to leverage jQuery but can be set to leverage any Java
 
 
 ===============kodmunki™ build process==============
-This build process is dependent upon yuicompressor and a specific directory structure:
+
+This build process is dependent upon yuicompressor 
+and a specific directory structure:
 
  root
  _build (This build script and the yuicompressor)

@@ -16,7 +16,7 @@ This build process is dependent upon yuicompressor and a specific directory stru
 * root  
  * _build (This build script and the yuicompressor)
  * bin (The compiled scripts will appear here)
- * lib (All script files go here)
+ * src (All script files go here)
 
 The following variables found in setup () are
 expected to be changed by the developer running
